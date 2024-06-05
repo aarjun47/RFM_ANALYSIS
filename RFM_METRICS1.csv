@@ -1,0 +1,93 @@
+CUSTOMERNAME,RECENCY,FREQUENCY,MONETARY,RECENCY_SCORE,FREQUENCY_SCORE,MONETORY_SCORE,RFM_SCORE,customer_segment
+"Saveley & Henriot, Co.",698,41,"? 1,42,874.2",5,5,5,15,Best Customers
+Muscle Machine Inc,543,48,"? 1,97,736.9",4,5,5,14,Best Customers
+Herkku Gifts,663,29,"? 1,11,640.3",5,4,4,13,Best Customers
+Rovelli Gifts,386,48,"? 1,37,955.7",3,5,5,13,Best Customers
+Online Diecast Creations Co.,630,34,"? 1,31,685.3",5,4,4,13,Best Customers
+"Corrida Auto Replicas, Ltd",706,32,"? 1,20,615.3",5,4,4,13,Best Customers
+"Australian Collectors, Co.",398,55,"? 2,00,995.4",3,5,5,13,Best Customers
+Land of Toys Inc.,412,49,"? 1,64,069.4",3,5,5,13,Best Customers
+"AV Stores, Co.",410,51,"? 1,57,807.8",3,5,5,13,Best Customers
+Corporate Gift Ideas Co.,312,41,"? 1,49,882.5",2,5,5,12,Best Customers
+Reims Collectables,277,41,"? 1,35,042.9",2,5,5,12,Best Customers
+Scandinavian Gift Ideas,304,38,"? 1,34,259.3",2,5,5,12,Best Customers
+"Vida Sport, Ltd",489,31,"? 1,17,713.6",4,4,4,12,Best Customers
+Baane Mini Imports,443,32,"? 1,16,599.2",4,4,4,12,Best Customers
+Mini Gifts Distributors Ltd.,217,180,"? 6,54,858.1",2,5,5,12,Best Customers
+Salzburg Collectables,229,40,"? 1,49,798.6",2,5,5,12,Best Customers
+"Dragon Souveniers, Ltd.",332,43,"? 1,72,989.7",2,5,5,12,Best Customers
+The Sharp Gifts Warehouse,254,40,"? 1,60,010.3",2,5,5,12,Best Customers
+L'ordine Souveniers,88,39,"? 1,42,601.3",1,5,5,11,Loyal Customers
+Danish Wholesale Imports,261,36,"? 1,45,041.6",2,4,5,11,Loyal Customers
+Souveniers And Things Co.,217,46,"? 1,51,571.0",1,5,5,11,Loyal Customers
+"Anna's Decorations, Ltd",120,46,"? 1,53,996.1",1,5,5,11,Loyal Customers
+Euro Shopping Channel,91,259,"? 9,12,294.1",1,5,5,11,Loyal Customers
+Collectable Mini Designs Co.,675,25,"? 87,489.2",5,3,3,11,Loyal Customers
+Marta's Replicas Co.,445,27,"? 1,03,080.4",4,3,4,11,Loyal Customers
+Vitachrome Inc.,600,25,"? 88,041.3",5,3,3,11,Loyal Customers
+"Stylish Desk Decors, Co.",660,26,"? 88,804.5",5,3,3,11,Loyal Customers
+Heintze Collectables,436,27,"? 1,00,595.6",4,4,3,11,Loyal Customers
+Handji Gifts& Co,253,36,"? 1,15,498.7",2,5,4,11,Loyal Customers
+Mini Classics,443,26,"? 85,556.0",4,3,3,10,Loyal Customers
+giftsbymail.co.uk,652,26,"? 78,240.8",5,3,2,10,Loyal Customers
+"Toms Spezialitten, Ltd",442,26,"? 1,00,306.6",4,3,3,10,Loyal Customers
+Amica Models & Co.,479,26,"? 94,117.3",4,3,3,10,Loyal Customers
+Signal Gift Stores,398,29,"? 82,751.1",3,4,3,10,Loyal Customers
+Technics Stores Inc.,245,34,"? 1,20,783.1",2,4,4,10,Loyal Customers
+"Tokyo Collectables, Ltd",254,32,"? 1,20,562.7",2,4,4,10,Loyal Customers
+"Oulu Toy Supplies, Inc.",335,32,"? 1,04,370.4",2,4,4,10,Loyal Customers
+"Blauer See Auto, Co.",600,22,"? 85,171.6",5,2,3,10,Loyal Customers
+Daedalus Designs Imports,680,20,"? 69,052.4",5,2,2,9,Loyal Customers
+Suominen Souveniers,214,30,"? 1,13,961.2",1,4,4,9,Loyal Customers
+Toys4GrownUps.com,31,30,"? 1,04,562.0",1,4,4,9,Loyal Customers
+Mini Creations Ltd.,184,35,"? 1,08,951.1",1,4,4,9,Loyal Customers
+"Royal Canadian Collectables, Ltd.",499,26,"? 74,634.9",4,3,2,9,Loyal Customers
+Gift Depot Inc.,241,25,"? 1,01,894.8",2,3,4,9,Loyal Customers
+"UK Collectables, Ltd.",150,29,"? 1,18,008.3",1,4,4,9,Loyal Customers
+"Toys of Finland, Co.",121,30,"? 1,11,250.4",1,4,4,9,Loyal Customers
+"Norway Gifts By Mail, Co.",498,24,"? 79,224.2",4,3,2,9,Loyal Customers
+Collectables For Less Inc.,346,24,"? 81,578.0",3,3,3,9,Loyal Customers
+La Rochelle Gifts,215,35,"? 1,24,122.0",1,4,4,9,Loyal Customers
+Diecast Classics Inc.,216,31,"? 1,22,138.1",1,4,4,9,Loyal Customers
+Cruz & Sons Co.,411,26,"? 94,015.7",3,3,3,9,Loyal Customers
+Diecast Collectables,615,18,"? 70,859.8",5,1,2,8,Loyal Customers
+Gift Ideas Corp.,629,19,"? 57,294.4",5,2,1,8,Loyal Customers
+Motor Mint Distributors Inc.,410,23,"? 83,682.2",3,2,3,8,Loyal Customers
+Super Scale Inc.,636,17,"? 79,472.1",5,1,2,8,Loyal Customers
+"La Corne D'abondance, Co.",407,23,"? 97,203.7",3,2,3,8,Loyal Customers
+FunGiftIdeas.com,304,26,"? 98,923.7",2,3,3,8,Loyal Customers
+Canadian Gift Exchange Network,436,22,"? 75,238.9",4,2,2,8,Loyal Customers
+"Classic Gift Ideas, Inc",444,21,"? 67,507.0",4,2,2,8,Loyal Customers
+Auto Canal Petit,181,27,"? 93,170.7",1,3,3,7,Potential Loyalists
+"Iberia Gift Imports, Corp.",570,15,"? 54,723.6",5,1,1,7,Potential Loyalists
+Microscale Inc.,621,10,"? 33,144.9",5,1,1,7,Potential Loyalists
+CAF Imports,653,13,"? 49,642.1",5,1,1,7,Potential Loyalists
+Mini Caravy,262,19,"? 80,438.5",2,2,3,7,Potential Loyalists
+"Double Decker Gift Stores, Ltd",710,12,"? 36,019.0",5,1,1,7,Potential Loyalists
+West Coast Collectables Co.,703,13,"? 46,084.6",5,1,1,7,Potential Loyalists
+Gifts4AllAges.com,210,26,"? 83,209.9",1,3,3,7,Potential Loyalists
+Quebec Home Shopping Network,361,22,"? 74,204.8",3,2,2,7,Potential Loyalists
+Auto Assoc. & Cie.,417,18,"? 64,834.3",3,2,2,7,Potential Loyalists
+Tekni Collectables Inc.,303,21,"? 83,228.2",2,2,3,7,Potential Loyalists
+Mini Wheels Co.,409,21,"? 74,476.2",3,2,2,7,Potential Loyalists
+Enaco Distributors,403,23,"? 78,411.9",3,2,2,7,Potential Loyalists
+Classic Legends Inc.,406,20,"? 77,795.2",3,2,2,7,Potential Loyalists
+"Volvo Model Replicas, Co",408,19,"? 75,754.9",3,2,2,7,Potential Loyalists
+Osaka Souveniers Co.,396,20,"? 67,605.1",3,2,2,7,Potential Loyalists
+Online Mini Collectables,449,15,"? 57,198.0",4,1,1,6,Potential Loyalists
+Alpha Cognac,279,20,"? 70,488.4",2,2,2,6,Potential Loyalists
+Signal Collectibles Ltd.,456,15,"? 50,218.5",4,1,1,6,Potential Loyalists
+Auto-Moto Classics Inc.,541,8,"? 26,479.3",4,1,1,6,Potential Loyalists
+"Men 'R' US Retailers, Ltd.",487,14,"? 48,048.5",4,1,1,6,Potential Loyalists
+"Bavarian Collectables Imports, Co.",473,14,"? 34,993.9",4,1,1,6,Potential Loyalists
+Lyon Souveniers,290,20,"? 78,570.3",2,2,2,6,Potential Loyalists
+Cambridge Collectables Co.,455,11,"? 36,163.6",4,1,1,6,Potential Loyalists
+Petit Auto,216,25,"? 74,972.5",1,3,2,6,Potential Loyalists
+Marseille Mini Autos,214,25,"? 74,936.1",1,3,2,6,Potential Loyalists
+"Clover Collections, Co.",395,16,"? 57,756.4",3,1,1,5,Potential Loyalists
+Atelier graphique,402,7,"? 24,180.0",3,1,1,5,Potential Loyalists
+"Australian Gift Network, Co",333,15,"? 59,469.1",2,1,1,4,Potential Loyalists
+"Australian Collectables, Ltd",118,23,"? 64,591.5",1,2,1,4,Potential Loyalists
+Mini Auto Werke,90,15,"? 52,263.9",1,1,1,3,At Risk
+Boards & Toys Co.,152,3,"? 9,129.4",1,1,1,3,At Risk
+Royale Belge,92,8,"? 33,440.1",1,1,1,3,At Risk
